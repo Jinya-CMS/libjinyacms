@@ -1,0 +1,1 @@
+# libjinyacms - The C++ library for Jinya CMS
